@@ -3,5 +3,5 @@ html, body {
   padding: 0;
 }
 canvas {
-  display: block;
+  border: 2px solid rgb(136, 255, 0);
 }
